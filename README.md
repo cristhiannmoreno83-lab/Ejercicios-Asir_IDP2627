@@ -14,11 +14,11 @@ Cada alumno/a debe entregar la solución a sus ejercicios realizando un **Fork**
 
 2. **Datos obligatorios que debes incluir en la entrega**:
    En la cabecera del `README.md` de tu fork (o en el mensaje de la entrega), cada alumno debe incluir obligatoriamente los siguientes datos identificativos:
-   - 👤 **Nombre completo:** [Nombre y Apellidos del alumno]
+   - 👤 **Nombre completo:** Cristhian David Moreno Ortiz
    - 📅 **Curso:** 2026 / 2027
    - 🎓 **Nivel:** 1.º ASIR (Administración de Sistemas Informáticos en Red)
    - 📚 **Asignatura:** Implantación de Sistemas Operativos (IDP)
-   - 📝 **Ejercicio:** [Especificar si es 1º, 2º, 3º o 4º Ejercicio Práctico]
+   - 📝 **Ejercicio:**  PracticaUT01
 
 3. **Subida del documento PDF**:
    - Sube a tu repositorio el PDF con la resolución del ejercicio respetando la nomenclatura exigida (ej. `Prueba_practica_UT01_Nombre_Apellido1_Apellido2.pdf`).
